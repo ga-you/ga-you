@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=ga-you&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ga-you&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ga-you&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ga-you&theme=shades-of-purple&no-frame=true&no-bg=false&margin-w=4) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

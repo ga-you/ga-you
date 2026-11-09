@@ -1,6 +1,6 @@
 # Hi there =^-^=
 
-# 💫 About Me:
+# 🎀 About Me:
 <br>I’m a CS student focused on machine learning and data science. <br>I like building projects, working with data, and figuring out how models actually behave. <br>I’m still exploring where I want to go, but I learn fast by building things. <br>Always down to work on something interesting or team up with people who like building too.
 
 
